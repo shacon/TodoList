@@ -1,0 +1,21 @@
+
+body {
+  padding-top: 60px;
+  background-color: #ccc;
+}
+
+li span {
+  padding-right: 5px;
+}
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+li {
+  padding: 5px 10px;
+  border: 1px solid #ccc;
+  background: #eee;
+}
+
